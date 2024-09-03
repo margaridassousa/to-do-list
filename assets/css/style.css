@@ -51,6 +51,7 @@ body {
     border-radius: 10px;
     border: none;
     font-size: small;
+    cursor: pointer;
 }
 
 .list {
